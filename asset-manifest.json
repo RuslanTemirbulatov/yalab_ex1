@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yalab_ex1/static/css/main.2f896f82.css",
+    "main.js": "/yalab_ex1/static/js/main.8925d09a.js",
+    "index.html": "/yalab_ex1/index.html",
+    "main.2f896f82.css.map": "/yalab_ex1/static/css/main.2f896f82.css.map",
+    "main.8925d09a.js.map": "/yalab_ex1/static/js/main.8925d09a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f896f82.css",
+    "static/js/main.8925d09a.js"
+  ]
+}
